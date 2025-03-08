@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Pasan!
-**Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
+**Architect of the Digital Unknown, Navigating the Shadows of the Web, Crafting Echoes in the Void**
 
 <img align="right" alt="GIF" src="./me.gif" width="250" height="250"/>
 
@@ -11,6 +11,8 @@ Persuing MSc in Advanced Software Engineering, University of Westminster<br>
 
 **🔭 Currently Exploring:** <br>
 Kubernetes ⋅ KNative ⋅ NextJS ⋅ Java ⋅ Spring Boot ⋅ Quarkus ⋅ AI App Building
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasanguruge/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=L6vJvisAAAAJ)
