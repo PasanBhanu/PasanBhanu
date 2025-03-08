@@ -11,3 +11,9 @@ Persuing MSc in Advanced Software Engineering, University of Westminster<br>
 
 **🔭 Currently Exploring:** <br>
 Kubernetes ⋅ KNative ⋅ NextJS ⋅ Java ⋅ Spring Boot ⋅ Quarkus ⋅ AI App Building
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasanguruge/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=L6vJvisAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pasanbhanuguruge)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/PasanBhanuGuruge)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pasanbhanuguruge)
