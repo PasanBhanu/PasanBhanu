@@ -10,7 +10,7 @@ BSc in Electrical Engineering, University of Moratuwa<br>
 Persuing MSc in Advanced Software Engineering, University of Westminster<br>
 
 **🔭 Currently Exploring:** <br>
-Kubernetes ⋅ KNative ⋅ NextJS ⋅ Java ⋅ Spring Boot ⋅ Quarkus ⋅ AI App Building
+Kubernetes ⋅ NextJS ⋅ ReactJS ⋅ Machine Learning ⋅ Java ⋅ Spring Boot ⋅ AI
 
 <br>
 
