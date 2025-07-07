@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="./me.gif" width="250" height="250"/>
 
-An engineer focused on building systems in a fast-paced, ever-evolving technology landscape, passionate about AI, Web Applications, Kubernetes, and Machine Learning. Working as a Software Engineer in Fintech industry, leading a team of developers while building scalable, customer focused systems. Constantly exploring new technologies to push the boundaries of what's possible in modern software development.
+An engineer focused on building systems in a fast-paced, ever-evolving technology landscape, passionate about AI, Web Applications, Kubernetes, and Machine Learning. Working as a Tech Lead in Fintech industry, leading a team of developers while building scalable, customer focused systems. Constantly exploring new technologies to push the boundaries of what's possible in modern software development.
 
 **🎓 Education:** <br>
 BSc in Electrical Engineering, University of Moratuwa<br>
